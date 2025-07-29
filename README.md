@@ -1,4 +1,4 @@
-# Cognitive Campus
+# Cognitive Campus - Final Year Project
 **A Student Productivity Enhancement System Powered by Large Language Models**
 
 ![Cognitive Campus Platform](https://github.com/user-attachments/assets/51ab3d24-2c9c-44e2-a530-6c68a2e9b509)
