@@ -5,7 +5,7 @@
 
 *Final Year Project - Developed as part of a 3-member collaborative team*
 
-**[Click here to view the source code]([https://github.com/](https://github.com/Saleem-Talha/Cognitive-Campus))**
+**[Click here to view the source code](https://github.com/Saleem-Talha/Cognitive-Campus)**
 
 ## Overview
 
